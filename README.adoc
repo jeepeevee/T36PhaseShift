@@ -1,6 +1,6 @@
-= TMC5160BOB library for Arduino =
+= T36PhaseShift library for Arduino =
 
-Cette librairie permet de faciliter l'utilisation du tmc5160BOB
+Allows to generate phase shifted square waves
 
 == License ==
 
