@@ -1,0 +1,29 @@
+#################################
+#lib
+#################################
+T36PhaseShift	KEYWORD1
+#################################
+#class
+#################################
+T36DualShift	KEYWORD1
+#################################
+#methods
+#################################
+setDualFrequency	KEYWORD2
+dualFTM0InitConfig	KEYWORD2
+updateFTM0C2VToC5V	KEYWORD2
+updateFTM0C2VToC5VComp	KEYWORD2
+updateFTM0	KEYWORD2
+
+#################################
+#vars
+#################################
+modulo	LITERAL1
+prescaler	LITERAL1
+halfMod	LITERAL1	
+#################################
+#attribs
+#################################
+TMC5160_INTERNAL_CLOCK	LITERAL2
+TMC5160_EXTERNAL_CLOCK	LITERAL2
+setMOTORSTEPS	LITERAL2
